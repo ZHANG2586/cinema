@@ -1,0 +1,43 @@
+
+
+.kk{
+    height: 600px;
+    width: 90%;
+    color: black;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+.server{
+    height: 80px;
+    width: 400px;
+    line-height: 80px;
+    border-bottom: 1px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    display: inline-block;
+}
+a:hover {text-decoration:underline;}
+a{
+  text-decoration:none;
+  color:cornsilk;
+  
+}
+li{
+   padding: 0;
+    margin: 0;
+    list-style: none;
+   height: 80px;
+   width: 400px;
+   border-bottom: 1px solid black;
+   line-height: 80px;
+   font-size: 30px;
+   position: relative;
+}
+.b{
+  position: absolute;
+  right: 5px;
+  top: 35%;
+  width: 60px;
+}

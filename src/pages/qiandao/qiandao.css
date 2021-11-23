@@ -1,0 +1,28 @@
+body{
+    color: blanchedalmond;
+    margin: 0px;
+}
+.s{
+    display: inline-block;
+    width: 30%;
+     position: relative;
+}
+.s1{
+    display: inline-block;
+    width: 60%;
+}
+.d{  
+    position: absolute;
+    right: 5px;
+}
+.s2{
+    height: 40px;
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+.s3{
+    position: absolute;
+    right: 0;
+    top:40%
+}

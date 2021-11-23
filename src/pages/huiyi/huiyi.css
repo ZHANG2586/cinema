@@ -1,0 +1,18 @@
+.s{
+    padding-top: 10px;
+    margin:auto;
+}
+.star_time,.id,.huiyiname,.number,.end_time,.faqiren{
+    /* margin-top: 100px; */
+    margin: 0 auto;
+   height: 40px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.annu{
+    width: 80px;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+}
+
